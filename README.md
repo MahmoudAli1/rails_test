@@ -14,15 +14,13 @@ Things you may want to cover:
   `bundle install`
 
 - Configuration
-  brew install postgres
-  username : postgres
-  password : 87654321
+  `brew install postgres`
+  `username : postgres`
+  `password : 87654321`
 
 - Database Calls
-  rake db:setup
-  rake db:migrate
+  `rake db:setup`
+  `rake db:migrate`
 
 - Running the server
-  rails s
-
-- ...
+  `rails s`
